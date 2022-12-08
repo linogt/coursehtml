@@ -1,0 +1,22 @@
+.sections{
+    background-color: rgb(86, 165, 235);
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid rebeccapurple;
+
+}
+
+.sections.-bg{
+    background-color: black;
+}
+
+.sections.-firstborder{
+    border-color: black;
+}
+
+.sections.-borderblack{
+    border-color:  black;
+}
+.sections.-bgazul{
+    background-color: rgb(86, 165, 235);
+}
