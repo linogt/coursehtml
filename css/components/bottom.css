@@ -13,6 +13,15 @@
     text-decoration: none;
     
 }
+.button.-full{
+    width: 100%;
+    background-color: rgb(92, 152, 230);
+    font-size: 30px;
+    color:#fff;
+    margin: 0;
+    
+    
+}
 .button:hover{
     transform: scale(1.08);
     
